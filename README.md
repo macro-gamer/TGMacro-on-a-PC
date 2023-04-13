@@ -1,5 +1,6 @@
 # TGMacro-on-a-PC
-If you're looking to automate repetitive tasks on your PC, then TGMacro is a powerful tool that can help you do just that. With its intuitive interface and advanced scripting capabilities, TGMacro is the perfect solution for anyone looking to save time and streamline their workflow.
+If you're looking to automate repetitive tasks on your PC, then TGMacro is a powerful tool that can help you do just that. With its intuitive interface and advanced scripting capabilities, 
+TGMacro is the perfect solution for anyone looking to save time and streamline their workflow.
 Step 1: Download TGMacro
 The first step in the process is to download TGMacro. You can do this by following these steps:
 Open your web browser and go to the TGMacro website.
